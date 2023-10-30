@@ -1,7 +1,7 @@
 # Totality-MockDB
 Simple MockDB with basic methods
 Steps to run:-
-  1.Pull the entire code
+  1.Clone and pull the entire code
   2.Change the config file to your liking and run it
   3.Use endpoints "/getusers/" to get all the users
   4. Use endpoints "/getusers/:<id1>,<id2>..." to get the specified user list
